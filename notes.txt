@@ -1,0 +1,25 @@
+8 signals
+
+p9
+
+12 gpio 60      11 gpio 30
+15 gpio 48      12 gpio 60
+23 gpio 49      13 gpio 31
+25 gpio 117     14 gpio 50
+27 gpio 115     15 gpio 48
+30 gpio 112     16 gpio 51
+41 gpio 20      17 gpio 5
+                18 gpio 4
+p8
+7 gpio 66
+8 gpio 67
+9 gpio 69
+10 gpio 68
+11 gpio 45
+12 gpio 44
+14 gpio 26
+15 gpio 47
+16 gpio 46
+17 gpio 27
+18 gpio 65
+26 gpio 61
